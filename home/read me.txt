@@ -1,0 +1,6 @@
+Change the database line
+$con=mysqli_connect('localhost','id7134286_root2','root123','id7134286_demo');
+In all php file.
+
+See demo 
+http://virekha.tk/sms/
